@@ -1,0 +1,14 @@
+E:\Remote Control Project\RemoteTvControl\RemoteControl\bin\Debug\net9.0\RemoteControl.exe
+E:\Remote Control Project\RemoteTvControl\RemoteControl\bin\Debug\net9.0\RemoteControl.deps.json
+E:\Remote Control Project\RemoteTvControl\RemoteControl\bin\Debug\net9.0\RemoteControl.runtimeconfig.json
+E:\Remote Control Project\RemoteTvControl\RemoteControl\bin\Debug\net9.0\RemoteControl.dll
+E:\Remote Control Project\RemoteTvControl\RemoteControl\bin\Debug\net9.0\RemoteControl.pdb
+E:\Remote Control Project\RemoteTvControl\RemoteControl\obj\Debug\net9.0\RemoteControl.GeneratedMSBuildEditorConfig.editorconfig
+E:\Remote Control Project\RemoteTvControl\RemoteControl\obj\Debug\net9.0\RemoteControl.AssemblyInfoInputs.cache
+E:\Remote Control Project\RemoteTvControl\RemoteControl\obj\Debug\net9.0\RemoteControl.AssemblyInfo.cs
+E:\Remote Control Project\RemoteTvControl\RemoteControl\obj\Debug\net9.0\RemoteControl.csproj.CoreCompileInputs.cache
+E:\Remote Control Project\RemoteTvControl\RemoteControl\obj\Debug\net9.0\RemoteControl.dll
+E:\Remote Control Project\RemoteTvControl\RemoteControl\obj\Debug\net9.0\refint\RemoteControl.dll
+E:\Remote Control Project\RemoteTvControl\RemoteControl\obj\Debug\net9.0\RemoteControl.pdb
+E:\Remote Control Project\RemoteTvControl\RemoteControl\obj\Debug\net9.0\RemoteControl.genruntimeconfig.cache
+E:\Remote Control Project\RemoteTvControl\RemoteControl\obj\Debug\net9.0\ref\RemoteControl.dll
