@@ -9,7 +9,7 @@ public class Remote
     {
         screen.Off();
         Console.WriteLine("TV is turned off.");
-        Console.WriteLine("Press Q to turn on the TV");
+        Console.WriteLine("Press Q to turn on the TV.");
         string a = Console.ReadLine();
         Input(a);
     }
