@@ -1,0 +1,5 @@
+E:\Remote Control Project\RemoteTvControl\obj\Debug\net9.0\RemoteTvControl.GeneratedMSBuildEditorConfig.editorconfig
+E:\Remote Control Project\RemoteTvControl\obj\Debug\net9.0\RemoteTvControl.AssemblyInfoInputs.cache
+E:\Remote Control Project\RemoteTvControl\obj\Debug\net9.0\RemoteTvControl.AssemblyInfo.cs
+E:\Remote Control Project\RemoteTvControl\obj\Debug\net9.0\RemoteTvControl.csproj.CoreCompileInputs.cache
+E:\Remote Control Project\RemoteTvControl\obj\Debug\net9.0\RemoteTvControl.sourcelink.json

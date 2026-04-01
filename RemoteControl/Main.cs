@@ -2,7 +2,8 @@ public class ProgramMain
 {
     public static void Main(string[] args)
     {
-        Remote remote = new Remote();
-        remote.remoteOn();
+        //Screen screen = new Screen();
+        //screen.BeginRemote();
+        Console.WriteLine("Hello World!");
     }
 }

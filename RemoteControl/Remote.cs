@@ -3,7 +3,7 @@
 public class Remote
 {
     Screen screen = new Screen();
-    int prevVolume = 0;
+    //int prevVolume = 0;
 
     public void remoteOn()
     {
@@ -11,9 +11,9 @@ public class Remote
         Console.WriteLine("TV is turned off.");
         Console.WriteLine("Press Q to turn on the TV.");
         string a = Console.ReadLine();
-        Input(a);
+        screen.Input(a);
     }
-    public void RemoteInput()
+    /*public void RemoteInput()
     {
         while (true)
         {
@@ -88,8 +88,8 @@ public class Remote
                 break;
             }
         }
-    }
-
+    }*/
+/*
     public void Volume(int amount)
     {
         screen.volume += amount;
@@ -129,6 +129,9 @@ public class Remote
         }
     }
 
+    */
+
+    /*
     public void Input(string button)
     {
         
@@ -141,5 +144,5 @@ public class Remote
             string input = Console.ReadLine(); 
             Input(input);
         }
-    }
+    }*/
 }
